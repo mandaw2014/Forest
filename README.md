@@ -1,6 +1,8 @@
 # Forest
 A simple forest scene made with the Ursina Engine
 
+You can use this code but please credit me :)
+
 [Tree model](https://poly.pizza/m/w8ZaiYjK8C)
 
 [Tent model](https://poly.pizza/m/LrTs3hVGXv)
